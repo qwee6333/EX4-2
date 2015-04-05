@@ -3,4 +3,7 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="BMI">面對BMI現實</string>
+    <string name="cancel">取消離開</string>
+
 </resources>
